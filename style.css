@@ -54,9 +54,6 @@ p {
   color: hsla(0, 0%, 100%, 0.4);
   font-size:9px;
 }
-image{
-  background-color: var(--Soft-violet-accent);
-}
 img{
   max-width:100%;
 }
